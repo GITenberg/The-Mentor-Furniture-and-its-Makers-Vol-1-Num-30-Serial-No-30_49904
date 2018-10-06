@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Furniture and its Makers, Vol. 1, Num. 30, Serial No. 30'
 url: http://www.gutenberg.org/ebooks/49904
